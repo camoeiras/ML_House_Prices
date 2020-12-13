@@ -1,4 +1,4 @@
-# ML_House_Prices
+# Project - ML_House_Prices
 
 ## Install
 <p>This project requires Python and the following Python libraries installed:</p>
